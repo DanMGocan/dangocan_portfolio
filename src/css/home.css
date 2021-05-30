@@ -1,0 +1,29 @@
+* {
+    border: 0px solid rgb(156, 123, 123);
+}
+
+a {
+    text-decoration: none;
+}
+
+#profile-picture {
+    border-radius: 100%;
+}
+
+#linkedin {
+    font-size: large;    
+}
+
+#whatsapp {
+    font-size: large;
+}
+
+#linkedin a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+#whatsapp a {
+    text-decoration: none;
+    color: green;
+}
